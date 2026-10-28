@@ -222,7 +222,7 @@ export default function Home() {
         </p>
 
         <a className="button button-primary"
-          href="https://mail.google.com/mail/?view=cm&fs=1&to=EMAIL_ANDA@gmail.com&su=Diskusi%20Portofolio"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=mariesta.zhafira@gmail.com&su=Diskusi%20Portofolio"
           target="_blank"
           rel="noreferrer">
           Hubungi saya ↗
