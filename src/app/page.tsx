@@ -221,7 +221,8 @@ export default function Home() {
           peluang kerja yang sesuai.
         </p>
 
-        <a className="https://mail.google.com/mail/?view=cm&fs=1&to=mariesta.zhafira@gmail.com&su=Diskusi%20Portofolio"
+        <a className="button button-primary"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=EMAIL_ANDA@gmail.com&su=Diskusi%20Portofolio"
           target="_blank"
           rel="noreferrer">
           Hubungi saya ↗
