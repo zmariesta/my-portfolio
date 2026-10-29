@@ -13,7 +13,7 @@ const projects: Project[] = [
     name: "MineCommerce",
     category: "E-commerce Admin Dashboard",
     description:
-      "Dashboard admin e-commerce yang saya kembangkan. Perbarui deskripsi ini sesuai fitur yang benar-benar sudah selesai.",
+      "E-commerce dashboard and customer storefront built with Next.js and TypeScript, featuring product management, order tracking, inventory controls, and a demo checkout flow.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
     liveUrl: "https://minecommerce.vercel.app",
     sourceUrl: "https://github.com/zmariesta/minecommerce",
