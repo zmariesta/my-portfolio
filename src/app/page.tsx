@@ -15,8 +15,8 @@ const projects: Project[] = [
     description:
       "Dashboard admin e-commerce yang saya kembangkan. Perbarui deskripsi ini sesuai fitur yang benar-benar sudah selesai.",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
-    liveUrl: "",
-    sourceUrl: "",
+    liveUrl: "https://minecommerce.vercel.app",
+    sourceUrl: "https://github.com/zmariesta/minecommerce",
   },
 ];
 
